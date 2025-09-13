@@ -12,17 +12,10 @@ This is a basic Python program that performs simple arithmetic operations: **add
   - Division  
 - Displays the results in a clear format.  
 
-## 📝 Code
-```python
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
 
-sum = num1 + num2
-difference = num1 - num2
-product = num1 * num2
-quotient = num1 / num2
+TASK 2
+# Simple Greeting Program
 
-p = print("Addition =", sum)
-print("Subtraction =", difference)
-print("Product =", product)
-print("Division =", quotient)
+This is a simple Python program that takes a user's **first name**, **last name**, and a **custom message** as input, and then prints a personalized greeting.
+
+
